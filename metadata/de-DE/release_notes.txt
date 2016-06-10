@@ -1,0 +1,6 @@
+Wir haben noch ein paar bugs gefunden und sie in diesem kleinen Update gefixt:
+
+- wenn du ein repository via URL öffnest (finde heraus wie in unserem FAQ), welches nicht gecloned wurde stürzt die app nicht länger ab
+- repositories die via URL geöffnet werden, werden nun korrekt persistiert
+- repositories die via SSH gecloned wurden werden nun in Local angezeigt
+- die Status Leiste hat nun die korrekte Farbe, wenn man in Repositories sucht

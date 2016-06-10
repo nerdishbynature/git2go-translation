@@ -1,0 +1,26 @@
+Git2Go ist die erste App, die dir volle Git-Produktivität von überall ermöglicht. Klone und bearbeite all deine Git-Repositories, egal ob sie auf GitHub, Bitbucket, GitHub Enterprise, GitLab EE oder CE gehostet sind mit nur einem Tap.
+Darüber hinaus war es auf deinem iOS Gerät noch nie einfacher, Branches zu mergen, Merge-Konflikte zu lösen und Code-Änderungen direkt zu committen - All das, während du auf deinem iPhone oder iPad unterwegs bist!
+
+Verabschiede dich davon, für echte Produktivität mit Git von deinem Desktop abhängig zu sein und fang an die vollen Möglichkeiten deines iOS-Gerätes dafür zu nutzen:
+
+BRANCHES MERGEN WAR NIE EINFACHER
+- Merge Branches mit nur einem Tap
+- Sei endlich in der Lage, auf Merge-Konflikte zu reagieren und sie von überall zu lösen
+
+COMMITTE UND PUSHE VON ÜBERALL
+- Arbeite an deinen Repositories von überall, indem du Änderungen direkt auf deinem iOS-Gerät committest und pushst
+- Profitiere von vollem Support für das Staging aller Änderungen
+
+NUTZE DIE BESTEN GIT-SERVICES
+- Verbinde alle gängigen Anbieter für einfache Zugang zu öffentlichen und privaten Repositories
+- GitHub, GitHub Enterprise, Bitbucket, Bitbucket Enterprise, GitLab EE/CE und selbst gehostete SSH Repositories werden voll unterstützt
+- Clone GitHub Repositories direkt aus Safari in die Git2Go App
+
+GENIEßE ZUGANG ZU ALL DEINEN REPOSITORIES
+- Bleib immer auf dem Laufenden, egal was mit deinem Code passiert
+- Schau dir an, was Andere zu deinen Repositories beitragen und reagiere auf Commits
+
+ALLE MÖGLICHKEITEN FÜR CODE EDITING DIREKT INTEGRIERT
+- Profitiere von größtmöglicher Flexibilität für die Bearbeitung von Dateien mit eingebautem Syntax Highlighting für JavaScript, Java, Ruby, PHP, Python, CSS, C#‚ C, Objective-C, Swift und HTML
+- Volle Unterstützung für die Arbeit mit anderen großartigen Editoren wie Byword, Ulysses oder Textastic durch die Document Provider Extension
+- Importiere und committe files direkt aus anderen Apps wie Transmit oder deiner eigenen Fotobibliothek

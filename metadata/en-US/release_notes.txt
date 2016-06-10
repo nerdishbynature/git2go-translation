@@ -1,0 +1,8 @@
+We really like having faster reviews and faster bug fixes so we kept on going and fixed some really annoying bugs:
+
+- trying to open a Repository from a URL that does not exist is no longer crashing the app
+- Repositories that are opened from a URL are now persisted
+- Repositories that were cloned from SSH now show up in the local repository list.
+- The status bar has no longer the wrong colour when searching in repositories.
+- Directory and file names are no longer being truncated
+- When navigating while committing is your thing then you can finally use the tab bar when you do so

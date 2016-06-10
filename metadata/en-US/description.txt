@@ -1,0 +1,24 @@
+Git2Go is the first app which unleashes your full Git productivity from everywhere. Clone all your repositories hosted on GitHub, Bitbucket, GitHub Enterprise, GitLab, GitLab EE or CE with just one tap. You’re also able to merge branches, handle merge conflicts and easily commit changes after you’ve edited code on-the-fly - All from your iPhone and iPad!
+
+Say goodbye to desktop-bound work on repositories and start to benefit from a seamless Git integration and great development features on iOS:
+
+MERGE BRANCHES WITHOUT THE HASSLE
+- Easily merge branches with just one tap
+- Be finally able to react to merge conflicts and resolve them on-the-fly
+
+COMMIT AND PUSH FROM EVERYWHERE
+- Contribute to repositories from everywhere by directly committing and pushing changes made on your iOS device
+- Enjoy full staging support
+
+CONNECT TO YOUR FAVORITE GIT SERVICES
+- Perfect integration of public and private repositories hosted on GitHub, GitHub Enterprise, Bitbucket, Bitbucket Enterprise, GitLab EE/CE as well as self-hosted SSH repositories
+- Clone GitHub repositories directly from Safari into the Git2Go App
+
+ACCESS ALL YOUR REPOS TO TRACK CHANGES
+- Stay up to date on what happens within your code
+- Take a closer look at changes from other contributors and react to commits
+
+ALL THE TOOLS FOR POWERFUL CODE EDITNG BUILT RIGHT IN
+- Benefit from the flexibility to work on files whenever you need to with great built-in syntax highlighting for JavaScript, Java, Ruby, PHP, Python, CSS, C#‚ C, Objective-C, Swift and HTML
+- Full support for working in other editors like Byword, Ulysses, Textastic through the Document Provider Extension
+- Import and commit files from other apps like Transmit or your own photo library
