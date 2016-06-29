@@ -222,3 +222,6 @@
 "WEB_PROHIBITED_BODY" = "The contents of this website are against the AppStore Guidelines and can therefore not be shown.";
 "WEB_I_UNDERSTAND_BUTTON" = "I understand.";
 "WEB_LOADING_TITLE" = "Loading";
+
+"OPEN_IN_IOCTOCAT_ACTIVITY" = "Open in iOctocat";
+"OPEN_IN_SAFARI_ACTIVITY" = "Open in Safari";

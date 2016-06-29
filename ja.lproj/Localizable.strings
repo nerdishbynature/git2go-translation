@@ -226,3 +226,6 @@
 "WEB_PROHIBITED_BODY" = "このウェブサイトのコンテンツはAppStoreガイドラインに反していますので、表示できません。";
 "WEB_I_UNDERSTAND_BUTTON" = "了解";
 "WEB_LOADING_TITLE" = "読み込み中";
+
+"OPEN_IN_IOCTOCAT_ACTIVITY" = "";
+"OPEN_IN_SAFARI_ACTIVITY" = "";
