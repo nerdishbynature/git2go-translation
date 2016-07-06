@@ -4,9 +4,9 @@
 "COMMITS_CONTROLLER_PULL_TO_SYNC_LABEL" = "プルして同期";
 "COMMITS_CONTROLLER_PULL_TO_SYNC_LABEL_PULLING" = "プルしています…";
 "COMMITS_CONTROLLER_PULL_TO_SYNC_LABEL_PUSHING" = "プッシュしています…";
-"COMMITS_CONTROLLER_AUTHORED_TIME_AGO" = "%@が%@を作成しました";
+"COMMITS_CONTROLLER_AUTHORED_TIME_AGO" = "%2$@に%1$@により作成";
 
-"FIRST_COMMIT_ALERT_TITLE" = "最初のコミットを実行しました！🎉";
+"FIRST_COMMIT_ALERT_TITLE" = "最初のコミットを完了しました！🎉";
 "FIRST_COMMIT_ALERT_MESSAGE" = "変更内容をリモートと同期する方法をご紹介します。\nコミットリストを下にドラッグするだけで、すべてのローカルな内容がプッシュされます。";
 "FIRST_COMMIT_ALERT_DONE_ACTION" = "表示";
 "FIRST_COMMIT_ALERT_CANCEL_ACTION" = "しない";
@@ -62,7 +62,7 @@
 "REMOTE_LOGINS_CONTROLLER_SECTION_PUBLIC_CLOUD" = "ホスト先：パブリッククラウド";
 "REMOTE_LOGINS_CONTROLLER_SECTION_PRIVATE_CLOUD" = "ホスト先：Enterprise";
 "REMOTE_LOGINS_CONTROLLER_LOGIN_WITH_GITHUB" = "GitHubでログイン";
-"REMOTE_LOGINS_CONTROLLER_LOGOUT_PLACEHOLDER" = "%@をログアウト";
+"REMOTE_LOGINS_CONTROLLER_LOGOUT_PLACEHOLDER" = "ログアウト：%@";
 "REMOTE_LOGINS_CONTROLLER_LOGIN_WITH_BITBUCKET" = "Bitbucketでログイン";
 "REMOTE_LOGINS_CONTROLLER_LOGIN_WITH_GITHUB_ENTERPRISE" = "GitHub Enterpriseでログイン";
 "REMOTE_LOGINS_CONTROLLER_LOGIN_WITH_GITLAB" = "GitLab.comでログイン";
@@ -107,7 +107,7 @@
 "ERROR_DESCRIPTION_UPGRADE_NEEDED" = "プライベートリポジトリのクローンが試行されましたが、プライベートリポジトリのアップグレードが購入されていません。";
 "ERROR_RECOVERY_UPGRADE_NEEDED" = "設定 > アップグレード と進んで、購入してからやり直してください。";
 "ERROR_DESCRIPTION_CONFLICTED_FILES" = "ファイル内の競合：%@";
-"ERROR_RECOVERY_CONFLICTED_FILES" = "上に表示されているファイル内の競合を解決してください。競合はマーカー (例：“<<<”)でハイライトされています。競合を解決したら、“すべてを追加”して、新しいコミットを実行してください。";
+"ERROR_RECOVERY_CONFLICTED_FILES" = "上に表示されているファイル内の競合を解決してください。競合はマーカー（例：“<<<”）でハイライトされています。競合を解決したら、“すべてを追加”して、新しいコミットを実行してください。";
 
 "STATUS_TAB_BAR_TITLE" = "状況";
 "STATUS_CONTROLLER_TITLE" = "状況";
@@ -219,7 +219,7 @@
 "EMPTY_VIEW_EMPTY_LABEL" = "このページは意図的に空白のまま残されています。";
 "ONE_PASSWORD_BUTTON_TITLE" = "1Password";
 "WEB_PROHIBITED_TITLE" = "禁止されているウェブサイト";
-"WEB_PROHIBITED_BODY" = "このウェブサイトのコンテンツはAppStoreガイドラインに反していますので、表示できません。";
+"WEB_PROHIBITED_BODY" = "このウェブサイトのコンテンツはApp Storeガイドラインに反していますので、表示できません。";
 "WEB_I_UNDERSTAND_BUTTON" = "了解";
 "WEB_LOADING_TITLE" = "読み込み中";
 
